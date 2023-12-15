@@ -1,0 +1,9 @@
+2023-12-15 10:41:06.937 +05:30 [INF] Entered student in username field
+2023-12-15 10:41:07.041 +05:30 [INF] Entered Password123 in password field
+2023-12-15 10:41:09.036 +05:30 [INF] Clicked submit
+2023-12-15 10:41:09.204 +05:30 [INF] Screenshot taken
+2023-12-15 10:41:09.227 +05:30 [INF] Login successful
+2023-12-15 10:41:14.285 +05:30 [INF] Contact link clicked
+2023-12-15 10:41:14.448 +05:30 [INF] Screenshot taken
+2023-12-15 10:41:14.453 +05:30 [INF] Contact details test passed
+2023-12-15 10:41:14.453 +05:30 [INF] Contact details test Passed

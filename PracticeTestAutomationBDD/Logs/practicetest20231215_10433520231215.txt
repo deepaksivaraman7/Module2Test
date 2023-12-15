@@ -1,0 +1,12 @@
+2023-12-15 10:43:41.831 +05:30 [INF] Entered student in username field
+2023-12-15 10:43:41.926 +05:30 [INF] Entered invalidPassword in password field
+2023-12-15 10:43:41.972 +05:30 [INF] Clicked submit
+2023-12-15 10:43:42.155 +05:30 [INF] Screenshot taken
+2023-12-15 10:43:42.193 +05:30 [INF] Invalid username test passed
+2023-12-15 10:43:42.193 +05:30 [INF] Invalid password test Passed
+2023-12-15 10:43:43.689 +05:30 [INF] Entered invalidUser in username field
+2023-12-15 10:43:43.730 +05:30 [INF] Entered Password123 in password field
+2023-12-15 10:43:43.760 +05:30 [INF] Clicked submit
+2023-12-15 10:43:43.948 +05:30 [INF] Screenshot taken
+2023-12-15 10:43:43.968 +05:30 [INF] Invalid username test passed
+2023-12-15 10:43:43.968 +05:30 [INF] Invalid username test Passed

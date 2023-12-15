@@ -1,0 +1,5 @@
+2023-12-15 10:43:56.442 +05:30 [INF] Entered student in username field
+2023-12-15 10:43:56.540 +05:30 [INF] Entered Password123 in password field
+2023-12-15 10:44:08.565 +05:30 [INF] Clicked submit
+2023-12-15 10:44:08.737 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:08.755 +05:30 [INF] Login successful

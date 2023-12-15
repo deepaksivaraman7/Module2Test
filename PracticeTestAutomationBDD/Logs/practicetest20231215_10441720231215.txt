@@ -1,0 +1,29 @@
+2023-12-15 10:44:25.746 +05:30 [INF] Entered student in username field
+2023-12-15 10:44:25.847 +05:30 [INF] Entered Password123 in password field
+2023-12-15 10:44:27.570 +05:30 [INF] Clicked submit
+2023-12-15 10:44:27.721 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:27.739 +05:30 [INF] Login successful
+2023-12-15 10:44:29.054 +05:30 [INF] Courses link clicked
+2023-12-15 10:44:29.205 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:29.209 +05:30 [INF] Courses page loaded successfully
+2023-12-15 10:44:29.338 +05:30 [INF] Course clicked
+2023-12-15 10:44:36.312 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:36.324 +05:30 [INF] Course enroll test passed
+2023-12-15 10:44:36.324 +05:30 [INF] Course enroll test Passed
+2023-12-15 10:44:38.651 +05:30 [INF] Entered student in username field
+2023-12-15 10:44:38.695 +05:30 [INF] Entered Password123 in password field
+2023-12-15 10:44:40.143 +05:30 [INF] Clicked submit
+2023-12-15 10:44:40.283 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:40.289 +05:30 [INF] Login successful
+2023-12-15 10:44:41.445 +05:30 [INF] Courses link clicked
+2023-12-15 10:44:41.591 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:41.596 +05:30 [INF] Courses page loaded successfully
+2023-12-15 10:44:41.723 +05:30 [INF] Course clicked
+2023-12-15 10:44:44.740 +05:30 [INF] Screenshot taken
+2023-12-15 10:44:44.787 +05:30 [INF] Course enroll test failed
+2023-12-15 10:44:44.788 +05:30 [ERR] Test failed for Course enroll test
+Exception:   Expected string length 81 but was 156. Strings differ at index 8.
+  Expected: "https://practice-test-automation-school.teachable.com/purchas..."
+  But was:  "https://sso.teachable.com/secure/971788/checkout/5187030/sele..."
+  -------------------^
+
